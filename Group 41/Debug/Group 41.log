@@ -1,0 +1,7 @@
+﻿  Group 41.cpp
+C:\Users\thive\Desktop\Group 41\Group 41.cpp(161,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\thive\Desktop\Group 41\Group 41.cpp(169,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\thive\Desktop\Group 41\Group 41.cpp(186,6): warning C4101: 'number': unreferenced local variable
+C:\Users\thive\Desktop\Group 41\Group 41.cpp(545,17): warning C4101: 'Rpwd': unreferenced local variable
+C:\Users\thive\Desktop\Group 41\Group 41.cpp(545,7): warning C4101: 'Run': unreferenced local variable
+  Group 41.vcxproj -> C:\Users\thive\Desktop\Group 41\Debug\Group 41.exe

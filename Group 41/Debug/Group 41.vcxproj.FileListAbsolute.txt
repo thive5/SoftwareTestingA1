@@ -1,0 +1,3 @@
+C:\Users\thive\Desktop\PROJECT C++\Group 41\Debug\Group 41.exe
+C:\Users\thive\Desktop\PROJECT C++\Group 41\Debug\Group 41.pdb
+C:\Users\thive\Desktop\Group 41\Debug\Group 41.exe
